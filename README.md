@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Hasnaa Hossam</h3>
 
 <!-- Profile Views -->
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="Hassnaa.hussein03@eng-st.cu.edu.eg">Email</a> •
   <a href="https://twitter.com/lauragift_">Twitter</a>
 </p>
 
