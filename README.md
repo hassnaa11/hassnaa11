@@ -24,7 +24,7 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="www.linkedin.com/in/hasnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/hasnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/hasnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hasnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@lauragift_
 /"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
 <a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
