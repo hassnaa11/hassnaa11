@@ -22,7 +22,7 @@
 
  
 ## 🛠 Skills
-#### OOP, Java, C++
+#### OOP, Java, C++, HTML, CSS
 
   
 <!-- THE END -->
