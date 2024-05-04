@@ -22,7 +22,9 @@
 
  
 ## 🛠 Skills
-#### OOP, Java, C++, HTML, CSS
+#### Database, Data Structures & Algorithms, OOP
+#### Python, C++, Java 
+#### JavaScript, Node.Js, CSS, HTML
 
   
 <!-- THE END -->
