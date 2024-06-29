@@ -22,13 +22,14 @@
 
  
 ## 🛠 Skills
-### Programming: C++, Python, Java, JavaScript, Express, Node.js, PyQt5, Java Swing
-### Databases: PostgreSQL, MySQL
-Web: HTML, CSS
-### Concepts: OOP, Data Structures, Algorithms
-### Version Control: Git, GitHub
-### Microsoft Office: Word, PowerPoint, Excel.
-P
+<ul>
+<li>Programming: C++, Python, Java, JavaScript, Express, Node.js, PyQt5, Java Swing</li>
+<li>Databases: PostgreSQL, MySQL</li>
+<li>Web: HTML, CSS</li>
+<li>Concepts: OOP, Data Structures, Algorithms</li>
+<li>Version Control: Git, GitHub</li>
+<li>Microsoft Office: Word, PowerPoint, Excel.</li>
+</ul>
 
   
 <!-- THE END -->
