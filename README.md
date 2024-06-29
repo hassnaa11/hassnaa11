@@ -5,7 +5,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a junior student at Systems and Biomedical Engineeting | Cairo University. I'm passionate in learning new technologies.
+✨ I'm a senior 1 student at Systems and Biomedical Engineeting | Cairo University. I'm passionate in learning new technologies.
 
 <div align="center">
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
@@ -22,9 +22,13 @@
 
  
 ## 🛠 Skills
-#### Database, Data Structures & Algorithms, OOP
-#### Python, C++, Java 
-#### JavaScript, Node.Js, CSS, HTML
+### Programming: C++, Python, Java, JavaScript, Express, Node.js, PyQt5, Java Swing
+### Databases: PostgreSQL, MySQL
+Web: HTML, CSS
+### Concepts: OOP, Data Structures, Algorithms
+### Version Control: Git, GitHub
+### Microsoft Office: Word, PowerPoint, Excel.
+P
 
   
 <!-- THE END -->
