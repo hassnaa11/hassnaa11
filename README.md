@@ -23,7 +23,7 @@
  
 ## 🛠 Skills
 <ul>
-<li>Programming: C++, Python, Java, JavaScript, Express, Node.js, PyQt5, Java Swing</li>
+<li>Programming: C, C++, Python, Java, JavaScript, Express, Node.js, PyQt5, Java Swing</li>
 <li>Databases: PostgreSQL, MySQL</li>
 <li>Web: HTML, CSS</li>
 <li>Concepts: OOP, Data Structures, Algorithms</li>
