@@ -5,7 +5,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a senior 1 student at Systems and Biomedical Engineeting | Cairo University. I'm passionate in learning new technologies.
+✨ I'm a senior 1 student at Systems and Biomedical Engineeting | Cairo University.
 
 <div align="center">
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
@@ -13,11 +13,10 @@
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
+<h2>Contact me </h3>
     <p>
         <a href="https://linkedin.com/in/hasnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hasnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
    </p>
-
  <!-- Conecct section: END -->
 
  
@@ -31,7 +30,11 @@
 <li>Microsoft Office: Word, PowerPoint, Excel.</li>
 </ul>
 
-  
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnaa11\&layout=donut)](https://github.com/hassnaa11/github-readme-stats)
+
+
 <!-- THE END -->
 
 
