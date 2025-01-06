@@ -17,6 +17,13 @@
     <p>
         <a href="https://linkedin.com/in/hasnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hasnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
    </p>
+</a>
+  <a href="mailto:hasnaa.hossam119@gmail.com">
+    <img align = "center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40"/>
+</a>
+
+</p>
+   
  <!-- Conecct section: END -->
 
  
@@ -29,12 +36,11 @@
 <li>Version Control: Git, GitHub</li>
 <li>Microsoft Office: Word, PowerPoint, Excel.</li>
 </ul>
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnaa11\&layout=donut)](https://github.com/hassnaa11/github-readme-stats)
-
-
+<br>
+<p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassnaa11&show_icons=true&&&theme=dark&locale=en&layout=compact" alt="hassnaa11" /></p>
+<p>&nbsp;<img  height="200"src="https://github-readme-stats.vercel.app/api?username=hassnaa11&show_icons=true&&&theme=dark&locale=en" alt="hassnaa11" /></p>
+</p>
 <!-- THE END -->
 
 
