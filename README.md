@@ -5,7 +5,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a senior 1 student at Systems and Biomedical Engineeting | Cairo University.
+✨ I'm a senior 2 student at Systems and Biomedical Engineeting | Cairo University.
 
 <div align="center">
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
@@ -29,12 +29,15 @@
  
 ## 🛠 Skills
 <ul>
-<li>Programming: C, C++, Python, Java, JavaScript, Express, Node.js, PyQt5, Java Swing</li>
+<li>Programming Languages: Python, C++, C, Java, JavaScript</li>
+<li>Frameworks & Libraries: PyQt5, Java Swing, OpenCV, Scikit-learn</li>
+<li>Concepts & Techniques: Object-Oriented Programming (OOP), Data Structures & Algorithms, Problem Solving, Machine Learning, Computer Vision</li>
+<li>Embedded Systems: AVR, STM32, Real-Time Operating Systems (RTOS)</li>
+<li>Web Development: HTML, CSS, Node.js, Express</li>
 <li>Databases: PostgreSQL, MySQL</li>
-<li>Web: HTML, CSS</li>
-<li>Concepts: OOP, Data Structures, Algorithms</li>
-<li>Version Control: Git, GitHub</li>
+<li>Tools & Platforms: Git, GitHub</li>
 <li>Microsoft Office: Word, PowerPoint, Excel.</li>
+
 </ul>
 <br>
 <p>
