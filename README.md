@@ -15,7 +15,7 @@
 
 <h2>Contact me </h3>
     <p>
-        <a href="https://linkedin.com/in/hasnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hasnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/hassnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnsaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hassnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
    </p>
 </a>
   <a href="mailto:hasnaa.hossam119@gmail.com">
@@ -39,11 +39,11 @@
 <li>Microsoft Office: Word, PowerPoint, Excel.</li>
 
 </ul>
-<br>
+<!-- <br>
 <p>
 <p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassnaa11&show_icons=true&&&theme=dark&locale=en&layout=compact" alt="hassnaa11" /></p>
 <p>&nbsp;<img  height="180"src="https://github-readme-stats.vercel.app/api?username=hassnaa11&show_icons=true&&&theme=dark&locale=en" alt="hassnaa11" /></p>
-</p>
+</p> -->
 <!-- THE END -->
 
 
