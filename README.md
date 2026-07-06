@@ -5,7 +5,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a senior 2 student at Systems and Biomedical Engineeting | Cairo University.
+✨ I'm a Systems and Biomedical Engineering graduate from Cairo University with a strong interest in Data Engineering, Data Analysis, and Artificial Intelligence. Through academic projects and internships, I have gained hands-on experience with SQL, Python, Power BI, and data-driven problem-solving. I enjoy building efficient data solutions, transforming data into actionable insights, and applying AI to solve real-world challenges. I'm currently seeking opportunities to contribute and grow as a Data & AI Engineer.
 
 <div align="center">
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
@@ -29,14 +29,15 @@
  
 ## 🛠 Skills
 <ul>
-<li>Programming Languages: Python, C++, C, Java, JavaScript</li>
-<li>Frameworks & Libraries: PyQt5, Java Swing, OpenCV, Scikit-learn</li>
-<li>Concepts & Techniques: Object-Oriented Programming (OOP), Data Structures & Algorithms, Problem Solving, Machine Learning, Computer Vision</li>
-<li>Embedded Systems: AVR, STM32, Real-Time Operating Systems (RTOS)</li>
-<li>Web Development: HTML, CSS, Node.js, Express</li>
-<li>Databases: PostgreSQL, MySQL</li>
-<li>Tools & Platforms: Git, GitHub</li>
-<li>Microsoft Office: Word, PowerPoint, Excel.</li>
+<li>Programming Languages: Python, SQL, C++, Java, C, JavaScript</li>
+<li>Data & AI: Data Analysis, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), Prompt Engineering, Feature Engineering, Model Assessment, Hyperparameter Optimization, Transfer Learning, Ensemble Methods, Cross-Validation</li>
+<li>Frameworks & Libraries: PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Seaborn, Keras, PyQt5</li>
+<li>Data Analytics & BI Tools: Power BI, Tableau, Advanced Excel, Jupyter Notebook</li>
+<li>Software Development: Object-Oriented Programming (OOP), Data Structures & Algorithms, RESTful API Integration, Git, GitHub</li>
+<li>Web Development: HTML, CSS, Flask, Node.js, Express.js</li>
+<li>Databases: MySQL, PostgreSQL</li>
+<li>Embedded Systems: AVR, STM32, Arduino, Real-Time Operating Systems (RTOS)</li>
+<li>Microsoft Office: Word, Excel, PowerPoint</li>
 
 </ul>
 <!-- <br>
