@@ -5,7 +5,9 @@
  <!-- About section -->
 
 ---
-✨ I'm a Systems and Biomedical Engineering graduate from Cairo University with a strong interest in Data Engineering, Data Analysis, and Artificial Intelligence. Through academic projects and internships, I have gained hands-on experience with SQL, Python, Power BI, and data-driven problem-solving. I enjoy building efficient data solutions, transforming data into actionable insights, and applying AI to solve real-world challenges. I'm currently seeking opportunities to contribute and grow as a Data & AI Engineer.
+Entry-level Data Engineer with hands-on experience building ETL pipelines and SQL-based data warehouses through practical 
+training and projects. Skilled in Python, SQL, data integration, data modeling, and data quality validation, with a foundation in 
+Big Data technologies. Interested in building reliable, scalable data pipelines that support analytics and business decision-making. .
 
 <div align="center">
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
@@ -15,7 +17,7 @@
 
 <h2>Contact me </h3>
     <p>
-        <a href="https://linkedin.com/in/hassnaa-hossam-4aab68247"><img src="https://img.shields.io/badge/-Hasnsaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hassnaa-hossam-4aab68247" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/hasnaa-hossamm/"><img src="https://img.shields.io/badge/-Hasnsaa%20Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/hassnaa-hossamm" alt="LinkedIn Badge"></a> 
    </p>
 </a>
   <a href="mailto:hasnaa.hossam119@gmail.com">
